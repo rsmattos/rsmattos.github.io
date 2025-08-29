@@ -1,15 +1,20 @@
 ---
 layout: page
 title: Projects
-icon: fas fa-book
-order: 6
-# permalink: /projects/
+icon: fas fa-code
+order: 20
+permalink: /projects/
 ---
 
-## Getting started
-- [Introduction](/projects/intro/)
-- [Installation](/projects/install/)
+## Research & Software
 
-## Advanced
-- [Configuration](/projects/config/)
-- [Tips & Tricks](/projects/tips/)
+- **Newton-X** — nonadiabatic dynamics suite.  
+  Repo: <link> · Docs: <link> · 
+
+- **Legion** — Gaussian wavepacket platform.  
+  Repo: <link> · Paper: <link>.
+
+## Personal
+
+- **Ulamdyn** — analysis/visualization tools.  
+  Repo: <link> · Notes: <link>.
