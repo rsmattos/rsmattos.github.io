@@ -11,7 +11,7 @@ permalink: /cv/
 Currently a postdoctoral researcher developing programs in the [Newton-X](https://newtonx.org) platform, for [Nonadiabatic Dynamics](https://en.wikipedia.org/wiki/Mixed_quantum-classical_dynamics).
 
 - Most used languages: Python, Fortran, Bash scripting
-- Experience wit: C/C++, CUDA, Perl
+- Experience with: C/C++, CUDA, Perl
 - Other Skills: Linux, HPC/Slurm, Git, LateX, Office Package
 - Languages: Portuguese (native), English (fluent), French (intermediate)
 
