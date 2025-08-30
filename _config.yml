@@ -1,30 +1,3 @@
-# title: Rafael Souza
-# description: Personal site & technical notes
-# url: https://rsmattos.github.io
-# theme: jekyll-theme-chirpy            # or remove if you want to fully roll your own
-# # theme: minima
-# markdown: kramdown
-# kramdown:
-#   math_engine: mathjax
-#   input: GFM
-# plugins:
-#   - jekyll-feed          # allowed by GitHub Pages
-#   - jekyll-sitemap       # allowed by GitHub Pages
-#   - jekyll-tidy          # allowed by GitHub Pages
-# collections:
-#   pages:
-#     output: true
-# defaults:
-#   - scope: { path: "" }
-#     values:
-#       layout: page
-#       # _config.yml
-# # _config.yml
-# collections:
-#   docs:
-#     output: true
-#     permalink: /docs/:path/
-
 # The Site Configuration
 
 # Import the theme
@@ -33,20 +6,26 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
+
+# languages: ["en", "sv", "de", "fr"]
+# default_lang: "en"
+# exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
+# parallel_localization: true
+
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Paris
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Rafael Souza # the main title
 
-# tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Personal site & technical notes # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal site & technical notes
+  A personal website to aggregate my development projects and some technical notes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -188,7 +167,8 @@ kramdown:
   plugins:
   - jekyll-feed          # allowed by GitHub Pages
   - jekyll-sitemap       # allowed by GitHub Pages
-  - jekyll-tidy          # allowed by GitHub Pages
+  - jekyll-tidy
+  - jekyll-polyglot
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
