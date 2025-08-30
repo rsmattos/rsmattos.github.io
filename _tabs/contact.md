@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 icon: fas fa-envelope
-order: 60
+order: 10
 permalink: /contact/
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: About
 icon: fas fa-user
-order: 10
+order: 1
 permalink: /about/
 ---
 

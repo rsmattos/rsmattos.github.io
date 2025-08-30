@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 icon: fas fa-code
-order: 20
+order: 3
 permalink: /projects/
 ---
 
