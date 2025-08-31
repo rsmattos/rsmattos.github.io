@@ -11,6 +11,7 @@ theme: jekyll-theme-chirpy
 # default_lang: "en"
 # exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
 # parallel_localization: true
+# lang_from_path: true
 
 lang: en
 
@@ -115,7 +116,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -125,7 +126,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: rsmattos/rsmattos.github.io
     repo_id:
     category:
     category_id:
@@ -168,7 +169,7 @@ kramdown:
   - jekyll-feed          # allowed by GitHub Pages
   - jekyll-sitemap       # allowed by GitHub Pages
   - jekyll-tidy
-  - jekyll-polyglot
+  # - jekyll-polyglot
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
