@@ -19,25 +19,25 @@ permalink: /publications/
 
 ### Papers
 
-- **Surface Hopping with Fully Correlated Methods** - .
-  Ely G. F. de Miranda; **Rafael S. Mattos**; Saikat Mukherjee; Josene M. Toldo; Cheol Ho Choi; Márcio T. do N. Varella; Mario Barbatti.
-  DOI: []() · [Journal]() · [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68a819d9a94eede1540a9b49)
+- **Surface Hopping with Fully Correlated Methods** - .  
+  Ely G. F. de Miranda; **Rafael S. Mattos**; Saikat Mukherjee; Josene M. Toldo; Cheol Ho Choi; Márcio T. do N. Varella; Mario Barbatti.  
+  [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68a819d9a94eede1540a9b49)
 
-- **MELTS: Fully Automated Active Learning for Fewest-Switches Surface Hopping Dynamics** - .
-  Matheus de Oliveira Bispo; **Rafael Souza Mattos**; Max Pinheiro Jr; Bidhan Chandra Garain; Pablo O. Dral; Mario Barbatti.
-  DOI: []() · [Journal]() · [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68ac1174a94eede154729a32)
+- **MELTS: Fully Automated Active Learning for Fewest-Switches Surface Hopping Dynamics** - .  
+  Matheus de Oliveira Bispo; **Rafael Souza Mattos**; Max Pinheiro Jr; Bidhan Chandra Garain; Pablo O. Dral; Mario Barbatti.  
+  [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/68ac1174a94eede154729a32)
 
-- **Ehrenfest Dynamics with Spontaneous Localization** - .
-  Anderson A. Tomaz; **Rafael S. Mattos**; Saikat Mukherjee; Mario Barbatti.
-  DOI: []() · [Journal]() · [arxiv](https://arxiv.org/abs/2508.09526)
+- **Ehrenfest Dynamics with Spontaneous Localization** - .  
+  Anderson A. Tomaz; **Rafael S. Mattos**; Saikat Mukherjee; Mario Barbatti.  
+  [arxiv](https://arxiv.org/abs/2508.09526)
 
-- **The Quantum Measurement Problem: A Review of Recent Trends** - .
-  Anderson A. Tomaz; Rafael S. Mattos; Mario Barbatti.
-  DOI: []() · [Journal]() · [arxiv](https://arxiv.org/abs/2502.19278)
+- **The Quantum Measurement Problem: A Review of Recent Trends** - .  
+  Anderson A. Tomaz; **Rafael S. Mattos**; Mario Barbatti.  
+  [arxiv](https://arxiv.org/abs/2502.19278)
 
-- **A mixed density functional theory and semi-empirical framework for trajectory surface hopping on extended systems (2025)** - .  
+- **A mixed density functional theory and semi-empirical framework for trajectory surface hopping on extended systems** - .  
   Jan-Robert Vogt; Michael Schulz; **Rafael Souza Mattos**; Mario Barbatti; Maurizio Persico; Giovanni Granucci; Jürg Hutter; Anna-Sophia Hehn.  
-  DOI: []() · [Journal]() · [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/686282131a8f9bdab5caa86c)
+  [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/686282131a8f9bdab5caa86c)
 
 - **Molecular Dynamics of the Ultrafast Excited-State Proton Transfer of the Super-Photoacid NM7HQ+ to the Aprotic Solvent DMSO (2025)** - *The Journal of Physical Chemistry Letters*.  
   Niklas Sülzner; **Rafael Souza Mattos**; Mario Barbatti.  
