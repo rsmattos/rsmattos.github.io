@@ -1,0 +1,17 @@
+/* Justify text on all page/post paragraphs */
+.content p,
+.post-content p {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* Don’t justify things that read poorly */
+.content h1, .content h2, .content h3,
+.content pre, .content code,
+.post-content h1, .post-content h2, .post-content h3,
+.post-content pre, .post-content code {
+  text-align: left;
+}
